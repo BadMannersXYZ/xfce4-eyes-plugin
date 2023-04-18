@@ -86,5 +86,7 @@ themes/Default-tiny/Makefile
 themes/Horrid/Makefile
 themes/Tango/Makefile
 themes/Chibi/Makefile
+themes/Sam/Makefile
+themes/Sam-tiny/Makefile
 ])
 AC_OUTPUT
